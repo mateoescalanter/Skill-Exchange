@@ -19,3 +19,5 @@ button. A user can then select the email button which will allow them to send an
 **Log-in Credentials to access site:** 
 * username: ashmello
 * password: puppies
+
+**Contributors:** Bannon Smith, Gregory Priznar, Lena Jimenez

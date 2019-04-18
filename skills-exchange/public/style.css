@@ -1,0 +1,73 @@
+
+
+#welcometext {
+  text-align: center;
+  justify-content: center;
+}
+
+#radiotext {
+  margin-left: 15px;
+}
+
+
+#submitbox {
+  display: flex;
+  justify-content: center;
+  margin-top: 10%;
+}
+
+/* Trade Page */
+
+#tradeheader {
+  text-align: center;
+}
+
+#tradebuttonbox {
+margin-left: 10%;
+margin-right: 10%;
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+padding: 10px;
+
+}
+
+#tradebutton {
+  padding: 10px;
+  margin: 5px;
+}
+
+.cardbox {
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+  justify-content: center;
+  text-align: center;
+  position: relative;
+}
+
+.card {
+  margin: 1%;
+  height: 445px;
+}
+
+.card a {
+  width: 100%;
+  position: absolute;
+  text-align: center;
+  bottom: 0px;
+  left: 0px;
+}
+
+.card h6 {
+  position: absolute;
+  text-align: center;
+  bottom: 100px;
+  left: 36px;
+
+}
+
+.backG {
+  color: white;
+  justify-content: center;
+}

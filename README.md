@@ -12,7 +12,7 @@ they can navigate to the Trade page. The Trade page allows users to select a cat
 Once a category is selected, descriptions of lessons offered by other users in that category are displayed along with an email 
 button. A user can then select the email button which will allow them to send an email to the user offering the skill of interest.
 
-**Features:** PostgresSQL, Node.js, express, express-sessions, Mustache, HTML, CSS, Bootstrap
+**Features:** PostgresSQL, Node.js, express, express-sessions, Mustache, CSS, Bootstrap
 
 **URL:** https://skills-exchange.herokuapp.com/
 

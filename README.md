@@ -7,7 +7,7 @@ This allows users to learn a new craft or skill by paying with their time instea
 
 
 Users have the ability to register or log in.
-![Alt text](login.png "Optional title")
+![Login](https://i.imgur.com/WYqFZTB.png "Login")
 
 Once logged in, the user is redirected to the home page where they can add a skill to teach. 
 They can select skills from a variety of categories and then add a description about their specific skill and duration of time 
